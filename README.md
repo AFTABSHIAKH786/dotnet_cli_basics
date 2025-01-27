@@ -1,5 +1,5 @@
 #To create a .net project  
->>dontnet new console -n myapp
+>>dotnet new console -n myapp
 
 #To run the test cases
 >>dotnet test 
@@ -9,6 +9,7 @@
 
 #To build the application
 >>dotnet build
+
 #To clean the build of the application
 >>dotnet clean
 
