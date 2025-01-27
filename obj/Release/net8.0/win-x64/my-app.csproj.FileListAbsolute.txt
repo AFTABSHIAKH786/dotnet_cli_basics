@@ -1,0 +1,17 @@
+C:\Users\aftab.shaikh\Desktop\my-app\bin\Release\net8.0\win-x64\my-app.exe
+C:\Users\aftab.shaikh\Desktop\my-app\bin\Release\net8.0\win-x64\my-app.deps.json
+C:\Users\aftab.shaikh\Desktop\my-app\bin\Release\net8.0\win-x64\my-app.runtimeconfig.json
+C:\Users\aftab.shaikh\Desktop\my-app\bin\Release\net8.0\win-x64\my-app.dll
+C:\Users\aftab.shaikh\Desktop\my-app\bin\Release\net8.0\win-x64\my-app.pdb
+C:\Users\aftab.shaikh\Desktop\my-app\bin\Release\net8.0\win-x64\Newtonsoft.Json.dll
+C:\Users\aftab.shaikh\Desktop\my-app\obj\Release\net8.0\win-x64\my-app.csproj.AssemblyReference.cache
+C:\Users\aftab.shaikh\Desktop\my-app\obj\Release\net8.0\win-x64\my-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aftab.shaikh\Desktop\my-app\obj\Release\net8.0\win-x64\my-app.AssemblyInfoInputs.cache
+C:\Users\aftab.shaikh\Desktop\my-app\obj\Release\net8.0\win-x64\my-app.AssemblyInfo.cs
+C:\Users\aftab.shaikh\Desktop\my-app\obj\Release\net8.0\win-x64\my-app.csproj.CoreCompileInputs.cache
+C:\Users\aftab.shaikh\Desktop\my-app\obj\Release\net8.0\win-x64\my-app.csproj.Up2Date
+C:\Users\aftab.shaikh\Desktop\my-app\obj\Release\net8.0\win-x64\my-app.dll
+C:\Users\aftab.shaikh\Desktop\my-app\obj\Release\net8.0\win-x64\refint\my-app.dll
+C:\Users\aftab.shaikh\Desktop\my-app\obj\Release\net8.0\win-x64\my-app.pdb
+C:\Users\aftab.shaikh\Desktop\my-app\obj\Release\net8.0\win-x64\my-app.genruntimeconfig.cache
+C:\Users\aftab.shaikh\Desktop\my-app\obj\Release\net8.0\win-x64\ref\my-app.dll

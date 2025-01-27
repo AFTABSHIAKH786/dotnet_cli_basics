@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LcQ1Hx3vHcU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aftab.shaikh\\Desktop\\my-app\\my-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aftab.shaikh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
